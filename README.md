@@ -2,6 +2,13 @@
 
 SoilMate is a MERN stack web application designed as an intelligent farming assistant for Indian farmers. It helps them choose the best crops based on manually entered or live soil and weather data fetched from ThingSpeak, providing recommendations in multiple languages using the Gemini API.
 
+## 🚀 Live Deployment
+
+You can try out SoilMate live here:
+
+- 🌐 **Frontend (React App)**: [https://fanciful-flan-5735d8.netlify.app](https://fanciful-flan-5735d8.netlify.app)
+- 🛠️ **Backend (Express API)**: [https://soil-mate.onrender.com](https://soil-mate.onrender.com)
+
 ## 🌟 Features
 
 ### Frontend (React.js - Vite)
